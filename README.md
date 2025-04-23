@@ -3,26 +3,16 @@
 
 
 ## 🚀 Tech Stack
-**Frontend:**
-- Angular 15+, TypeScript, JavaScript
-- HTML5, CSS3, Bootstrap, Angular Material
-
-**Backend:**
-- ASP.NET Core Web API (C#)
-- RESTful Services, Authentication, JWT
-- Multi-threading, Batch Processing
-
-**Database:**
-- MSSQL, MySQL
-- Query Optimisation, Stored Procedures
-
-**Dev Tools:**
+- Angular 15+, TypeScript, JavaScript, Angular Material, HTML5, CSS3, Bootstrap, 
+- ASP.NET Core Web API (C#), RESTful Services, Authentication, JWT
+- MSSQL, MySQL, Query Optimisation
+- UI/UX, Responsive web design, Figma, Photoshop
 - Git, GitHub, Postman, Swagger
 - Docker (basic), CI/CD (learning phase)
-- Agile, Scrum, Jira
+- Agile, Scrum
 
 
-## 💼 What I offer
+## 💼 What I Can Do
 ✅ Build admin dashboards and internal tools  
 ✅ Develop secure login/auth systems with user roles  
 ✅ Create REST APIS from scratch or enhance existing ones  
@@ -35,7 +25,6 @@
 ## 📫 Let’s Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/jahnavi-poptani-8b4317150/)
 - 📧 Email: jahnavipoptani@gmail.com
-- 🌐 Portfolio: (Coming soon)
   
 
 > 💡 *“I believe clean code, reliable delivery, and clear communication are the foundations of great software.”*  
