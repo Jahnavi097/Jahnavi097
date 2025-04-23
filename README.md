@@ -22,9 +22,5 @@
 📝 If the required technology or skill isn't listed, don't worry — I'm a quick learner and adaptable, always eager to pick up new tools and frameworks as needed.
 
 ## 📫 Let’s Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/jahnavi-poptani-8b4317150/)
-- 📧 Email: jahnavipoptani@gmail.com
-  
+📧 Email: jahnavipoptani@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/jahnavi-poptani-8b4317150/)
 
-> 💡 *“I believe clean code, reliable delivery, and clear communication are the foundations of great software.”*  
-> — Jahnavi
