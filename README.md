@@ -1,16 +1,42 @@
-## Hi there 👋
+## Hi 👋, I'm Jahnavi
+🔧 I'm a passionate Full-Stack Developer with 5 years of experience crafting secure, scalable, and responsive web applications. I turn complex business needs into reliable, high-performance solutions using modern technologies.
 
-<!--
-**Jahnavi097/Jahnavi097** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+**Frontend:**
+- Angular 15+, TypeScript, JavaScript
+- HTML5, CSS3, Bootstrap, Angular Material
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Backend:**
+- ASP.NET Core Web API (C#)
+- RESTful Services, Authentication, JWT
+- Multi-threading, Batch Processing
+
+**Database:**
+- MSSQL, MySQL
+- Query Optimisation, Stored Procedures
+
+**Dev Tools:**
+- Git, GitHub, Postman, Swagger
+- Docker (basic), CI/CD (learning phase)
+- Agile, Scrum, Jira
+
+
+## 💼 What I offer
+✅ Build admin dashboards and internal tools  
+✅ Develop secure login/auth systems with user roles  
+✅ Create REST APIS from scratch or enhance existing ones  
+✅ Fix bugs, optimise performance, or refactor old code  
+✅ Convert UI/UX designs into responsive web interfaces  
+✅ Collaborate in Agile teams & deliver features on time
+
+📝 If the required technology or skill isn't listed, don't worry — I'm a quick learner and adaptable, always eager to pick up new tools and frameworks as needed.
+
+## 📫 Let’s Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/jahnavi-poptani-8b4317150/)
+- 📧 Email: jahnavipoptani@gmail.com
+- 🌐 Portfolio: (Coming soon)
+  
+
+> 💡 *“I believe clean code, reliable delivery, and clear communication are the foundations of great software.”*  
+> — Jahnavi
