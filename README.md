@@ -3,10 +3,9 @@
 
 
 ## 🚀 Tech Stack
-- Angular 15+, TypeScript, JavaScript, Angular Material, HTML5, CSS3, Bootstrap, 
+- Angular 15+, TypeScript, JavaScript, Angular Material, HTML5, CSS3, Bootstrap, UI/UX, Responsive web design, Figma, Photoshop
 - ASP.NET Core Web API (C#), RESTful Services, Authentication, JWT
 - MSSQL, MySQL, Query Optimisation
-- UI/UX, Responsive web design, Figma, Photoshop
 - Git, GitHub, Postman, Swagger
 - Docker (basic), CI/CD (learning phase)
 - Agile, Scrum
